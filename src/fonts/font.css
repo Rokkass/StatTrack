@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Light";
+  src: local("PPNeueMachina"),
+    url("./PP_Neue_Machina/PPNeueMachina-PlainLightItalic.otf")
+      format("opentype");
+}
+@font-face {
+  font-family: "Regular";
+  src: local("PPNeueMachina"),
+    url("./PP_Neue_Machina/PPNeueMachina-PlainRegular.otf") format("opentype");
+}
+@font-face {
+  font-family: "Bold";
+  src: local("PPNeueMachina"),
+    url("./PP_Neue_Machina/PPNeueMachina-PlainUltrabold.otf") format("opentype");
+}
