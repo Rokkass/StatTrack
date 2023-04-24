@@ -1,4 +1,4 @@
-# StatTrack
+# Landing page for StatTrack
 
 StatTrack is a simple web application that allows you to always track & analyze your business statistics to succeed.
 
@@ -20,4 +20,4 @@ Website desing by: [The18](https://www.the18.design)
 
 ## Screenshot of the project
 
-![github image](./src/assets/images/thumbnail.png)
+![github image](https://github.com/Rokkass/StatTrack/blob/main/src/assets/images/Thumbnail.png)
